@@ -27,3 +27,5 @@ p{
 3. 컴포넌트에만 제한된 css
 
 관심사의 분리를 무엇입니다.
+
+진행 한 내용 - https://kr.vuejs.org/v2/guide/unit-testing.html
